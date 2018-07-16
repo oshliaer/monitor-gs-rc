@@ -29,6 +29,6 @@ function monitor() {
 
 function simpleLog_(status) {
 
-  Logger.log(status);
+  console.log(status);
 
 }
